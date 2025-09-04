@@ -1,0 +1,6 @@
+if SHIELD_BOATSPLANK
+
+config ZMK_KEYBOARD_NAME
+  default "boatsplank"
+
+endif
